@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SolarSystem</string>
+    <string name="planet_1">Planet 1</string>
+    <string name="planet_2">Planet 2</string>
+    <string name="planet_3">Planet 3</string>
+    <string name="planet_4">Planet 4</string>
+    <string name="planet_5">Planet 5</string>
+    <string name="planet_6">Planet 6</string>
+    <string name="planet_7">Planet 7</string>
+    <string name="planet_8">Planet 8</string>
+    <string name="planet_9">Planet 9</string>
+</resources>
